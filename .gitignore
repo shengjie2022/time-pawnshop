@@ -1,6 +1,29 @@
+# 项目临时文件
 __pycache__/
 *.pyc
 ~$*
 *.tmp
 *.py
 新建文本文档.txt
+
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directories
+node_modules/
+
+# dotenv environment variable files
+.env
+.env.*
+!.env.example
+
+# IDE
+.vscode/
+.idea/

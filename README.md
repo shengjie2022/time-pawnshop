@@ -1,8 +1,9 @@
 # 时间当铺 Time Pawnshop
 
 > 经营一家收购"时间"的当铺，通过改写客人的过去来改变现在。
-
+> <img width="963" height="650" alt="image" src="https://github.com/user-attachments/assets/d6c595f2-8500-498d-8630-3f46c45065eb" />
 一款叙事解谜 + 经营模拟的像素风 HTML5 游戏。纯浏览器运行，无需安装。
+<img width="961" height="640" alt="image" src="https://github.com/user-attachments/assets/08e013ce-cfda-4855-a61c-68d52ec7bccc" />
 
 ## 游戏简介
 
@@ -23,6 +24,7 @@
 - 12 个隐藏事件 + 3 个二次来访事件
 - 5 件收藏品
 - 48 个成就（7 个分类）
+<img width="966" height="645" alt="image" src="https://github.com/user-attachments/assets/f3b822d0-f21b-40c6-8088-16e5fce3efa4" />
 
 ## 快速开始
 
@@ -63,3 +65,5 @@ git clone https://github.com/shengjie2022/time-pawnshop.git
 ## License
 
 [MIT](LICENSE)
+
+
